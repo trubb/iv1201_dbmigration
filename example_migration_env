@@ -1,0 +1,1 @@
+export IV1201_DBCREDENTIALS="iv1201:leif@tcp(127.0.0.1:3306)/iv1201mysql"
